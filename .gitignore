@@ -1,7 +1,12 @@
+# Ignore node_modules directory
 node_modules/
+
+# Ignore log files
 *.log
-node_modules
+
+# Ignore markdown files
+*.md
+
+# Ignore specific files
 c
 c.pub
-*.md
-git-samples
